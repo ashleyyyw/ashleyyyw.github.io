@@ -6,7 +6,7 @@ navbar:
     - text: "About"
       href: about.html
     - icon: fa-envelope fa-lg
-      href: mailto:<yy2828@columbia.edu>
+      href: "mailto: yy2828@columbia.edu"
     - icon: fa-github fa-lg
       href: https://github.com/ashleyyyw/
     - icon: fa fa-linkedin
