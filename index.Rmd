@@ -1,0 +1,28 @@
+---
+title: "Yangwei Yan"
+output:
+  html_document:
+    theme: journal
+---
+
+MS in Biastatistics, Mailman School of Public Health, Columbia University
+
+<img src="images/home_image.jpg" style="width:75%">
+
+I received a BS in Environmental Science and Engineering from Fudan University and is current a MS student in Biastatistics of Columbia University.
+Travelling is my favorite! I have been to five continents except for South America and Antarctica. 
+Now I really enjoy exploring the biostatistic world and the real world!
+
+# Curriculum Vitae
+
+My full CV is available [here](cv.pdf).
+
+<style type="text/css">
+
+body{ /* Normal  */
+      font-size: 16px;
+  }
+h1 { /* Header 1 */
+  font-size: 28px;
+}
+</style>
