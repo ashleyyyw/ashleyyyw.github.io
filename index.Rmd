@@ -23,6 +23,8 @@ library("vembedr")
 embed_url("https://www.youtube.com/watch?v=KoeFETjmUP4")
 ``` 
 
+<iframe src="https://www.youtube.com/embed/KoeFETjmUP4" width="42" height="31" frameborder="0" allowfullscreen=""></iframe>
+
 <style type="text/css">
 
 body{ /* Normal  */
