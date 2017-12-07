@@ -20,7 +20,10 @@ My full CV is available [here](cv.pdf).
 ```{r}
 library("htmltools")
 library("vembedr")
-embed_youtube("KoeFETjmUP4", width = 100, height = 100, frameborder = 0, allowfullscreen = TRUE, query = NULL)
+v1 = embed_youtube("KoeFETjmUP4", width = 225, height = 200, frameborder = 0, allowfullscreen = TRUE, query = NULL)
+v2 = embed_youtube("KoeFETjmUP4", width = 225, height = 200, frameborder = 0, allowfullscreen = TRUE, query = NULL)
+p = list(v1, v2)
+grid.arrange(p[[1]], p[[2]], ncol = 2)
 ``` 
 
 
