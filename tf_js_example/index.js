@@ -8,11 +8,11 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'Alice was beginning to get very tired of sitting by her sister on the bank.',
+      'I cannot make a question , or listen to a question about that .',
   'example2':
-      'Buda-Pesth seems a wonderful place.',
+      '' I ' VE been to a day - school , too ,' said Alice ; ' you needn ' t be so proud as all that .'',
   'example3':
-      'Scepticism was as much the result of knowledge, as knowledge is of scepticism.'      
+      'He would drowne the Stage with teares , And cleaue the generall eare with horrid speech : Make mad the guilty , and apale the free , Confound the ignorant , and amaze indeed , The very faculty of Eyes and Eares .'      
 };
 
 function status(statusText) {
