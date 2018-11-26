@@ -8,11 +8,11 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'I cannot make a question , or listen to a question about that .',
+      'Sixteen years had Miss Taylor been in Mr . Woodhouse ' s family , less as a governess than a friend , very fond of both daughters , but particularly of Emma .',
   'example2':
-      '' I ' VE been to a day - school , too ,' said Alice ; ' you needn ' t be so proud as all that .'',
+      'Alice guessed in a moment that it was looking for the fan and the pair of white kid gloves , and she very good - naturedly began hunting about for them , but they were nowhere to be seen -- everything seemed to have changed since her swim in the pool , and the great hall , with the glass table and the little door , had vanished completely .',
   'example3':
-      'He would drowne the Stage with teares , And cleaue the generall eare with horrid speech : Make mad the guilty , and apale the free , Confound the ignorant , and amaze indeed , The very faculty of Eyes and Eares .'      
+      'Rest , rest perturbed Spirit : so Gentlemen , With all my loue I doe commend me to you ; And what so poore a man as Hamlet is , May doe t ' expresse his loue and friending to you , God willing shall not lacke : let vs goe in together , And still your fingers on your lippes I pray , The time is out of ioynt : Oh cursed spight , That euer I was borne to set it right .'      
 };
 
 function status(statusText) {
